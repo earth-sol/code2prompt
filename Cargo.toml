@@ -22,7 +22,7 @@ tiktoken-rs = "0.6.0"
 ignore = "0.4.22"
 inquire = "0.7.1"
 regex = "1.10.3"
-git2 = { version = "0.18.2", default-features = false, features = [
+git2 = { version = "0.20.4", default-features = false, features = [
     "https",
     "vendored-libgit2",
     "vendored-openssl",
